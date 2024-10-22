@@ -11,4 +11,4 @@ This repository contains project on Learning Combinatorial Solver for Graph Matc
 A detailed report on the methodologies, algorithms, and results of the experiments conducted can be found in the report.pdf file located in the root directory of this repository.
 
 # Presentation
-To find additional details about the project, please refer the following video that provides in-depth explanation research work conducted: https://youtu.be/IunHu0NJVhM?si=najpBL6T-4NtgxRc
+To find additional details about the project, please refer the following video that provides in-depth explanation research work conducted: [Link](https://youtu.be/IunHu0NJVhM?si=najpBL6T-4NtgxRc)
